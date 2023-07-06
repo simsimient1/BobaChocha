@@ -1,0 +1,15 @@
+start Picture.png
+start Picture.png
+start Picture.png
+start Picture.png
+start Sp@m.vbs
+start Sp@m.vbs
+start Sp@m.vbs
+start Sp@m.vbs
+start Sp@m.vbs
+start Sp@m.vbs
+start Sp@m.vbs
+start Sp@m.vbs
+start Sp@m.vbs
+start Sp@m.vbs
+start Sp@m.vbs
